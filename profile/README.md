@@ -13,4 +13,7 @@ Heimdall brings together various geospatial datasets into a single interactive b
 ## Tech Stack
 React • Rust • Java Spring Boot • PostgreSQL • Docker • Self-hosted VPS
 
-*Built by Bruce Li and Thomas Spina*
+## Try it
+🌍 **[Visit Heimdall.earth](https://heimdall.earth/)** *(Desktop recommended)*
+
+*Built by Thomas Spina and team*
