@@ -11,7 +11,7 @@ Heimdall brings together various geospatial datasets into a single interactive b
 - **Orbit visualization** - Toggle between live and predicted orbital paths
 
 ## Tech Stack
-React • Rust • Java Spring Boot • PostgreSQL • Docker • Self-hosted VPS
+React • Rust • Java Spring Boot (Moving to Go) • PostgreSQL • Docker • Self-hosted VPS
 
 ## Try it
 🌍 **[Visit Heimdall.earth](https://heimdall.earth/)** *(Desktop recommended)*
