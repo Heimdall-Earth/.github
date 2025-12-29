@@ -16,4 +16,4 @@ React • Rust • Java Spring Boot (Moving to Go) • PostgreSQL • Docker •
 ## Try it
 🌍 **[Visit Heimdall.earth](https://heimdall.earth/)** *(Desktop recommended)*
 
-*Built by Thomas Spina and team*
+*Built by YuCheng Li, Thomas Spina, Kelvin Chen*
